@@ -184,6 +184,16 @@ Metadata made it easier to join and filter datasets based on project-specific di
 
 ![image](https://github.com/Manveer-gb/data-recording-manveer/blob/15217252224c8696eeba1bda063bda3308232365/Picture1.png)
 
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/ea217473500cbe740547d1cb7b32385cb6177e2a/Picture2.1.png)
+
+**Aggregation and Data Summarization**
+
+Performed summarization using AWS Glue Studio’s aggregation nodes.
+
+Grouped data by sewer type, depth range, or material for reporting purposes.
+
+Final aggregated data was stored back into S3 in Parquet format for better performance with Athena.
+
 ![image]()
 
 
