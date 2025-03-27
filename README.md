@@ -224,7 +224,7 @@ Configured AWS Config for resource compliance tracking and audit alerts.
 
 Set up anomaly detection and alerting for potential security or policy violations.
 
-![image]()
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/aa89830b7e75560be84dd028ff6f0742f9b0a222/1.png)
 
 ![image]()
 
