@@ -94,11 +94,23 @@ Data source: AwsDataCatalog using the catalog created by AWS Glue Crawlers.
 
 Purpose: Confirms Athena is used for SQL-based analytics post-ETL to extract compliance insights (e.g., lowest salary by compliance grouping).
 
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/89ecbb30c461c0dacfbbb8869b5aadb94c366907/Screenshot%20(181).png)
 
-             
+### **Governance & Access Control**
 
-  
+To align with UCW Policy No. 8006 and WorkSafeBC regulations:
 
+IAM Roles: Access restricted based on department and role (e.g., HR-only access to testing data)
+
+S3 Bucket Policies: Defined encryption and access logging
+
+AWS KMS Encryption: Enabled at-rest and in-transit data encryption
+
+Audit Logs: AWS CloudTrail tracked all actions on policy-related datasets
+
+# **Conclusion** 
+
+This project shows the use of AWS cloud tools to support UCW’s Substance Use Policy 8006. Through real data ingestion, cleaning, transformation, and policy monitoring, it shows how workforce compliance can be maintained and visualized using scalable, cloud-native solutions. Integrating policy, analytics, and governance in one platform supports proactive safety culture and enhances organizational transparency.
 
 
                     
