@@ -31,9 +31,13 @@ Metadata Management
 
 Aggregation and Storage
 
-AWS Cost Estimation
+ Information Protection
 
-Tools and Technologies
+Governance Policy Compliance
+
+Real-Time Monitoring and Alerts
+
+AWS Cost Estimation
 
 Summary and Insights
 
@@ -112,8 +116,35 @@ Audit Logs: AWS CloudTrail tracked all actions on policy-related datasets
 
 This project shows the use of AWS cloud tools to support UCW’s Substance Use Policy 8006. Through real data ingestion, cleaning, transformation, and policy monitoring, it shows how workforce compliance can be maintained and visualized using scalable, cloud-native solutions. Integrating policy, analytics, and governance in one platform supports proactive safety culture and enhances organizational transparency.
 
-
+# **Combined Project Report: Data Analytics Platform for the City of Vancouver**
                     
+### **Objective**
+
+This combined project focuses on building a secure, scalable, and analytics-driven Data Analytics Platform (DAP) using AWS Cloud services. 
+
+It involves two main parts:
+
+Project 1: Migration and transformation of sewer infrastructure data using AWS tools (ETL, profiling, storage, and summarization).
+
+Project 2: Governance, compliance, and real-time monitoring of the analytics platform using AWS security and auditing services.
+
+The overall goal is to enable efficient, policy-compliant, and insightful data management for the City of Vancouver using modern cloud 
+
+capabilities.
+
+**Data Ingestion and S3 Storage**
+
+Created Amazon S3 buckets for structured ingestion of the raw dataset sewer-manhole-facts.csv.
+
+Uploaded raw datasets using the AWS Management Console and validated successful transfers.
+
+S3’s scalable architecture was used to store both raw and processed data, ensuring future scalability.
+
+Integrity tests and validations were run post-upload to confirm readiness for processing.
+
+![image]()
+
+
 
 
 
