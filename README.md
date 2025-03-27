@@ -182,9 +182,9 @@ Datasets were cataloged for easy access in Amazon Athena, enabling SQL queries.
 
 Metadata made it easier to join and filter datasets based on project-specific dimensions.
 
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/15217252224c8696eeba1bda063bda3308232365/Picture1.png)
+
 ![image]()
-
-
 
 
 
