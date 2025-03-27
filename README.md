@@ -220,6 +220,7 @@ Enabled metadata management for cataloging and auditing.
 
 Integrated tools to track user actions, ensuring only authorized personnel access specific data zones.
 
+![image]()
 **Real-Time Monitoring and Alerts**
 
 Deployed AWS CloudTrail to monitor API calls and user interactions.
