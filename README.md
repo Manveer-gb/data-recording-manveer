@@ -13,13 +13,9 @@ Methodology
 
 AWS Services Used
 
-Data Integration & Transformation
-
-Policy Monitoring Metrics
+Data Integration 
 
 Governance & Access Control
-
-Cost Estimation
 
 Conclusion
 
@@ -49,29 +45,57 @@ Conclusion
 
 All three CSV files were uploaded to Amazon S3 for storage.
 
-**ETL via AWS Glue**
+### **Amazon S3 Bucket**
 
-Datasets were cleaned, standardized, and merged using AWS Glue Studio. 
+The S3 buckets created for storing datasets such as worker data, program lists, and testing data.
 
-**Key transformations included:**
+Buckets like hr-raw-manveer, hr-copy-man, etc., were created to organize datasets for raw and processed stages.
 
-Merging names and roles for ID matching
+Purpose: Demonstrates how raw CSV files were stored and segregated to support the ETL flow securely.
 
-Cleaning inconsistencies in department names
+![image alt](https://github.com/Manveer-gb/data-recording-manveer/blob/1a00d95987f3cc0fa83781254d67dc37c8ba2e1b/Screenshot%20(175).png)
 
-Filtering only Active employees for compliance analysis
+### **AWS Services Used**
 
-**Data Profiling**
+| **AWS Service**	                    |     **Purpose**   |
+|----------------                     |----------------|
+| **Amazon S3**                       | Secure dataset storage (raw and processed)  |
+|   **AWS Glue**                      |  ETL and transformation workflows   |
+|  **AWS Brew**                       | DataBrew	Data profiling and cleaning    |
+|   **Aws Athena**                    |   	SQL-based data querying  |
+|  **AWS IAM**                        | Access control and user permissions    |
+|    **AWS CloudWatch**               | 	Monitoring ETL jobs and query health |
+|  **AWS QuickSight**                 | Dashboard for compliance insights     |
 
-Using AWS Glue DataBrew, all datasets were profiled for:
+### **Data Integration**
 
-Missing values (e.g., test results or job titles)
+**AWS Glue DataBrew**
 
-Duplicate records
+Displays multiple DataBrew cleaning jobs executed, including:
 
-Gender distribution across departments
+hr-semi-job-manveer, prgm-list-cln-manveer, tstng-lst-cln-manveer
+
+**AWS Glue DataBrew – Project Dashboard**
+
+Shows project names and associated datasets/recipes, like:
+
+hr-pgm-list-prjt-manveer, hr-worker-list-prj-manveer
+
+Purpose: Demonstrates organized project tracking and recipe-based data cleaning per dataset.
+
+![image alt]()
 
 
+
+
+
+             
+
+  
+
+
+
+                    
 
 
 
