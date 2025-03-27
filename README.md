@@ -160,6 +160,18 @@ Identified missing values, outliers, and column inconsistencies.
 
 Verified readiness for transformation by inspecting schema details and detecting anomalies.
 
+**Data Transformation and Cleaning**
+
+Used AWS Glue Studio to apply transformation steps:
+
+Removed extra spaces and null values
+
+Renamed columns (e.g., geo_point → geo_point_vancouver)
+
+Removed duplicates and standardized formats (e.g., depth, material)
+
+Final transformed datasets were saved in Parquet format for efficient querying.
+
 ![image]()
 
 
