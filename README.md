@@ -172,7 +172,19 @@ Removed duplicates and standardized formats (e.g., depth, material)
 
 Final transformed datasets were saved in Parquet format for efficient querying.
 
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/6e3962321c0cebef26f8caf602393ee6c7b1e64b/Picture2.png)
+
+**Metadata Cataloging and Querying with AWS Glue**
+
+Configured AWS Glue Crawlers to automatically create metadata tables.
+
+Datasets were cataloged for easy access in Amazon Athena, enabling SQL queries.
+
+Metadata made it easier to join and filter datasets based on project-specific dimensions.
+
 ![image]()
+
+
 
 
 
