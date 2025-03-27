@@ -194,9 +194,39 @@ Grouped data by sewer type, depth range, or material for reporting purposes.
 
 Final aggregated data was stored back into S3 in Parquet format for better performance with Athena.
 
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/b35899eb6e6ddd099b50f4cb72fa67eaf1fdc76c/Picture3.1.png)
+
+# **Governance, Security, and Monitoring (Project 2 Focus)**
+
+**Information Protection**
+
+Implemented AWS IAM policies to control access to datasets.
+
+Enforced data encryption in transit and at rest using AWS Key Management Service (KMS).
+
+Enabled AWS Lake Formation to manage roles, permissions, and sensitive access controls.
+
+**Governance Policy Compliance**
+
+Configured AWS Lake Formation to enforce data governance and policy tracking.
+
+Enabled metadata management for cataloging and auditing.
+
+Integrated tools to track user actions, ensuring only authorized personnel access specific data zones.
+
+**Real-Time Monitoring and Alerts**
+
+Deployed AWS CloudTrail to monitor API calls and user interactions.
+
+Used AWS CloudWatch to monitor system health, usage metrics, and create dashboards.
+
+Configured AWS Config for resource compliance tracking and audit alerts.
+
+Set up anomaly detection and alerting for potential security or policy violations.
+
 ![image]()
 
-
+![image]()
 
 
 
