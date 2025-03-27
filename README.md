@@ -220,7 +220,8 @@ Enabled metadata management for cataloging and auditing.
 
 Integrated tools to track user actions, ensuring only authorized personnel access specific data zones.
 
-![image]()
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/da78934e88a5f3e32dd80737358d7c67be1100f7/Picture6.png)
+
 **Real-Time Monitoring and Alerts**
 
 Deployed AWS CloudTrail to monitor API calls and user interactions.
