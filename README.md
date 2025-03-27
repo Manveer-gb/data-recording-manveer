@@ -83,10 +83,16 @@ hr-pgm-list-prjt-manveer, hr-worker-list-prj-manveer
 
 Purpose: Demonstrates organized project tracking and recipe-based data cleaning per dataset.
 
-![image alt](https://github.com/Manveer-gb/data-recording-manveer/blob/f2080dd3b00ddef497576482830b239e9ca7e2b3/Screenshot%20(179).png,)
+![image alt](https://github.com/Manveer-gb/data-recording-manveer/blob/f2080dd3b00ddef497576482830b239e9ca7e2b3/Screenshot%20(179).png) 
+![image alt](https://github.com/Manveer-gb/data-recording-manveer/blob/06cc3ca7ec1442eb3e26261eeb48fb080967cd73/Screenshot%20(180).png)
 
+### **Amazon Athena – Query Editor for Compliance Metrics**
 
+Athena was used to query the cleaned and joined datasets from Glue.
 
+Data source: AwsDataCatalog using the catalog created by AWS Glue Crawlers.
+
+Purpose: Confirms Athena is used for SQL-based analytics post-ETL to extract compliance insights (e.g., lowest salary by compliance grouping).
 
 
              
