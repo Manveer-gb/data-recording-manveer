@@ -114,7 +114,13 @@ Audit Logs: AWS CloudTrail tracked all actions on policy-related datasets
 
 # **Conclusion** 
 
-This project shows the use of AWS cloud tools to support UCW’s Substance Use Policy 8006. Through real data ingestion, cleaning, transformation, and policy monitoring, it shows how workforce compliance can be maintained and visualized using scalable, cloud-native solutions. Integrating policy, analytics, and governance in one platform supports proactive safety culture and enhances organizational transparency.
+This project shows the use of AWS cloud tools to support UCW’s Substance Use Policy 8006. Through real data ingestion, cleaning, 
+
+transformation, and policy monitoring, it shows how workforce compliance can be maintained and visualized using scalable, cloud-native 
+
+solutions. Integrating policy, analytics, and governance in one platform supports proactive safety culture and enhances organizational 
+
+transparency.
 
 # **Combined Project Report: Data Analytics Platform for the City of Vancouver**
                     
@@ -226,7 +232,25 @@ Set up anomaly detection and alerting for potential security or policy violation
 
 ![image](https://github.com/Manveer-gb/data-recording-manveer/blob/aa89830b7e75560be84dd028ff6f0742f9b0a222/1.png)
 
-![image]()
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/79421e71ce8f99c22f9ed7df07f01930644278dd/2.png)
+
+**Outcome and Insights**
+
+Project 1 successfully established a robust ETL and analytics pipeline for Vancouver sewer infrastructure.
+
+Project 2 enhanced the platform with data protection, access control, auditing, and compliance tracking.
+
+Real-time monitoring dashboards and SQL-driven analysis created a transparent and secure reporting environment.
+
+These cloud-based capabilities enable city departments to access accurate, up-to-date insights for planning and maintenance.
+
+**Conclusion**
+
+The combined implementation of Project 1 and Project 2 illustrates how a secure, automated, and scalable Data Analytics Platform can 
+
+support critical infrastructure decision-making while ensuring data governance and compliance. AWS services like S3, Glue, Athena, Lake 
+
+Formation, and CloudWatch were successfully integrated to build a comprehensive solution that balances analytics with privacy and security.
 
 
 
