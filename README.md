@@ -115,9 +115,7 @@ Audit Logs: AWS CloudTrail tracked all actions on policy-related datasets
 # **Conclusion** 
 
 This project shows the use of AWS cloud tools to support UCW’s Substance Use Policy 8006. Through real data ingestion, cleaning, 
-
 transformation, and policy monitoring, it shows how workforce compliance can be maintained and visualized using scalable, cloud-native 
-
 solutions. Integrating policy, analytics, and governance in one platform supports proactive safety culture and enhances organizational 
 
 transparency.
@@ -249,9 +247,7 @@ These cloud-based capabilities enable city departments to access accurate, up-to
 **Conclusion**
 
 The combined implementation of Project 1 and Project 2 illustrates how a secure, automated, and scalable Data Analytics Platform can 
-
 support critical infrastructure decision-making while ensuring data governance and compliance. AWS services like S3, Glue, Athena, Lake 
-
 Formation, and CloudWatch were successfully integrated to build a comprehensive solution that balances analytics with privacy and security.
 
 
