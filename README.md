@@ -142,7 +142,26 @@ S3’s scalable architecture was used to store both raw and processed data, ensu
 
 Integrity tests and validations were run post-upload to confirm readiness for processing.
 
+![image](https://github.com/Manveer-gb/data-recording-manveer/blob/409685e364837ecbeeaee44866a820d2ecf91e32/part%201%20first%20pic.png)
+
+**Records Automation Using EC2**
+
+Launched an Amazon EC2 instance to automate data ingestion and transformation scheduling.
+
+Configured the EC2 server to run shell scripts and schedule uploads, minimizing manual intervention.
+
+This improved the data flow and reduced chances of human error in dataset updates.
+
+**Data Profiling with AWS Glue DataBrew**
+
+Profiled datasets using AWS Glue DataBrew to assess accuracy, completeness, and quality.
+
+Identified missing values, outliers, and column inconsistencies.
+
+Verified readiness for transformation by inspecting schema details and detecting anomalies.
+
 ![image]()
+
 
 
 
