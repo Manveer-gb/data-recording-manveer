@@ -1,0 +1,51 @@
+ID,Name,Age,Gender,Occupation,Salary,Location,Department,StartDate,PerformanceScore
+1,John Doe,29,Male,Software Engineer,85000,New York,Engineering,2020-06-15,4.5
+2,Jane Smith,34,Female,Data Scientist,95000,San Francisco,Data Science,2018-09-22,4.7
+3,Mark Johnson,41,Male,Manager,112000,Chicago,Management,2016-03-30,4.8
+4,Emily Davis,27,Female,Product Designer,78000,Boston,Design,2021-01-10,4.2
+5,Michael Lee,38,Male,HR Specialist,65000,Los Angeles,Human Resources,2015-11-12,3.9
+6,Sarah Brown,30,Female,Marketing Manager,91000,Austin,Marketing,2019-05-01,4.6
+7,David Wilson,24,Male,Junior Developer,70000,Seattle,Engineering,2022-02-14,3.8
+8,Amy Martinez,33,Female,Accountant,72000,Denver,Finance,2020-08-08,4.0
+9,Christopher Taylor,28,Male,UI/UX Designer,77000,San Diego,Design,2021-07-05,4.3
+10,Megan Anderson,36,Female,Product Manager,102000,New York,Product,2017-11-19,4.9
+11,James Thomas,45,Male,Director,140000,Chicago,Management,2013-03-30,4.6
+12,Linda Robinson,32,Female,Sales Representative,56000,Boston,Sales,2022-03-18,3.5
+13,Robert Clark,27,Male,Software Developer,83000,San Francisco,Engineering,2020-10-25,4.1
+14,Patricia Lewis,40,Female,Operations Manager,107000,Los Angeles,Operations,2018-02-11,4.7
+15,William Walker,29,Male,Marketing Analyst,68000,Austin,Marketing,2021-05-22,4.0
+16,Elizabeth Young,31,Female,HR Manager,72000,Denver,Human Resources,2020-12-13,4.3
+17,Joseph Hall,34,Male,Finance Analyst,90000,Chicago,Finance,2017-09-28,4.4
+18,Karen Allen,26,Female,Sales Manager,85000,Seattle,Sales,2021-04-20,4.5
+19,Daniel Wright,38,Male,Senior Developer,95000,San Francisco,Engineering,2016-06-15,4.8
+20,Laura Harris,33,Female,Product Designer,75000,San Diego,Design,2019-03-29,4.2
+21,George Carter,50,Male,CTO,180000,Boston,Management,2010-10-17,5.0
+22,Emily Scott,28,Female,Junior Developer,72000,New York,Engineering,2022-01-03,3.7
+23,Nancy Green,42,Female,Accountant,68000,Los Angeles,Finance,2016-07-11,3.9
+24,Steven Adams,35,Male,Product Manager,115000,Seattle,Product,2018-05-06,4.8
+25,Lauren Perez,31,Female,Data Analyst,88000,San Francisco,Data Science,2019-11-10,4.3
+26,Matthew Evans,39,Male,Sales Representative,62000,Austin,Sales,2015-06-01,3.6
+27,Barbara Nelson,27,Female,Product Designer,77000,Chicago,Design,2021-08-19,4.1
+28,Anthony Baker,44,Male,HR Director,125000,San Diego,Human Resources,2012-04-28,4.6
+29,James Moore,29,Male,Operations Specialist,85000,Boston,Operations,2020-01-12,4.2
+30,Susan Martin,34,Female,Marketing Specialist,80000,Los Angeles,Marketing,2018-10-30,4.4
+31,Kevin Harris,40,Male,Software Engineer,95000,Seattle,Engineering,2017-12-22,4.7
+32,Olivia Allen,25,Female,Accountant,65000,San Francisco,Finance,2023-01-06,3.8
+33,Charles Young,39,Male,Product Manager,107000,New York,Product,2014-06-21,4.9
+34,Kathryn Hill,31,Female,Junior Developer,72000,Chicago,Engineering,2022-02-09,3.8
+35,Samuel King,30,Male,Sales Manager,95000,Austin,Sales,2019-11-07,4.5
+36,Martha White,38,Female,Operations Manager,105000,San Diego,Operations,2016-09-14,4.6
+37,Richard Green,33,Male,Marketing Manager,99000,Boston,Marketing,2021-03-04,4.8
+38,Jessica Adams,27,Female,HR Specialist,63000,Seattle,Human Resources,2022-06-30,4.0
+39,Joseph Perez,45,Male,Manager,120000,New York,Management,2015-04-18,4.7
+40,Victoria Cooper,31,Female,Senior Developer,108000,San Francisco,Engineering,2019-02-12,4.5
+41,Peter Walker,36,Male,Operations Director,130000,Los Angeles,Operations,2013-12-05,4.8
+42,Emily Carter,25,Female,Data Scientist,92000,Austin,Data Science,2022-07-10,4.3
+43,Luke Miller,32,Male,Sales Representative,67000,San Diego,Sales,2019-05-15,3.7
+44,Katherine Moore,28,Female,Product Designer,73000,Chicago,Design,2021-09-02,4.4
+45,Christopher Perez,34,Male,HR Manager,79000,New York,Human Resources,2017-02-22,4.2
+46,Jessica Wilson,33,Female,Product Manager,113000,San Francisco,Product,2019-08-09,4.9
+47,William Scott,41,Male,Senior Developer,100000,Boston,Engineering,2014-03-19,4.8
+48,Samuel Miller,28,Male,Accountant,68000,Los Angeles,Finance,2021-06-18,3.9
+49,Olivia Young,29,Female,Data Analyst,78000,San Diego,Data Science,2021-03-30,4.4
+50,John Allen,37,Male,Operations Specialist,89000,Seattle,Operations,2016-01-25,4.6

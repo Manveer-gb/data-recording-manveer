@@ -1,0 +1,51 @@
+Worker ID,First Name,Last Name,Job Title,Department,Location,Date of Hire,Salary ($),Status,Supervisor Name
+001,John,Doe,Manager,Sales,New York,2015-06-12,75000,Active,Jane Smith
+002,Sarah,Lee,Developer,IT,Chicago,2018-09-15,82000,Active,Mike Johnson
+003,Michael,Brown,Designer,Marketing,Dallas,2019-03-20,68000,Active,Emily Davis
+004,Lisa,Green,Assistant,HR,Boston,2016-07-11,45000,Inactive,Greg Wilson
+005,James,White,Analyst,Finance,Atlanta,2020-01-09,62000,Active,Susan Clark
+006,Rachel,Adams,Developer,IT,Denver,2017-04-22,75000,Active,Robert Harris
+007,Daniel,Wilson,Marketing Lead,Marketing,San Francisco,2015-11-05,85000,Active,Sarah Kelly
+008,Emily,Taylor,HR Manager,HR,New York,2016-06-01,95000,Active,Greg Wilson
+009,David,Martinez,Sales Rep,Sales,Chicago,2019-12-18,55000,Active,Jane Smith
+010,Jessica,Hall,Graphic Designer,Marketing,Los Angeles,2021-02-10,52000,Active,Daniel Wilson
+011,Brian,King,Software Engineer,IT,Seattle,2020-08-14,95000,Active,Mike Johnson
+012,Megan,Carter,Content Writer,Marketing,Chicago,2018-03-25,60000,Active,Emily Davis
+013,Adam,Evans,Account Manager,Sales,Boston,2015-01-30,70000,Inactive,Sarah Kelly
+014,Olivia,Scott,Admin Assistant,HR,Dallas,2021-06-09,45000,Active,Emily Taylor
+015,Nathan,Moore,Business Analyst,Finance,Atlanta,2017-11-11,75000,Active,Robert Harris
+016,Samantha,Taylor,Marketing Specialist,Marketing,San Francisco,2019-02-22,68000,Active,Daniel Wilson
+017,Kevin,Perez,Data Scientist,IT,Denver,2020-04-05,90000,Active,Mike Johnson
+018,Lily,Hall,Sales Rep,Sales,Los Angeles,2021-07-13,62000,Active,Jane Smith
+019,Sophia,Clark,IT Support,IT,Boston,2016-09-10,56000,Active,Rachel Adams
+020,Jack,Lewis,Operations Manager,Operations,New York,2014-03-15,95000,Active,Greg Wilson
+021,Ava,White,Legal Counsel,Legal,Chicago,2018-12-12,100000,Active,Robert Harris
+022,William,Young,Marketing Associate,Marketing,Los Angeles,2019-07-21,60000,Active,Daniel Wilson
+023,Isabella,Carter,Research Assistant,Research,Seattle,2021-05-02,45000,Active,Mike Johnson
+024,Noah,King,Project Manager,Operations,Atlanta,2017-02-25,80000,Active,Emily Taylor
+025,Mia,Parker,Financial Analyst,Finance,San Francisco,2020-09-03,72000,Active,Sarah Kelly
+026,Ethan,Scott,Software Developer,IT,Chicago,2021-01-18,78000,Active,Robert Harris
+027,Grace,Miller,Graphic Designer,Marketing,Dallas,2019-08-30,62000,Active,Daniel Wilson
+028,Oliver,Rodriguez,HR Assistant,HR,San Francisco,2021-11-07,49000,Active,Emily Taylor
+029,Elijah,Wilson,Product Manager,Operations,New York,2015-04-19,85000,Active,Jack Lewis
+030,Charlotte,Davis,IT Specialist,IT,Los Angeles,2018-10-09,83000,Active,Rachel Adams
+031,Sophia,Young,Data Analyst,IT,Seattle,2020-06-05,65000,Active,Robert Harris
+032,Lucas,Carter,Research Analyst,Research,Atlanta,2016-08-12,67000,Active,Emily Taylor
+033,Harper,King,Product Designer,Marketing,Chicago,2019-01-11,71000,Active,Daniel Wilson
+034,Gabriel,Evans,Operations Lead,Operations,Boston,2015-10-02,93000,Active,Jack Lewis
+035,Zoe,Clark,HR Coordinator,HR,Denver,2018-05-08,50000,Active,Greg Wilson
+036,Joshua,Taylor,Web Developer,IT,San Francisco,2020-04-18,80000,Active,Rachel Adams
+037,Lucas,Harris,Software Architect,IT,Dallas,2019-07-25,95000,Active,Robert Harris
+038,Ava,Martinez,Legal Advisor,Legal,Los Angeles,2021-01-15,110000,Active,Sarah Kelly
+039,Benjamin,White,Senior Analyst,Finance,Seattle,2015-02-20,89000,Active,Susan Clark
+040,Victoria,Adams,Marketing Director,Marketing,New York,2016-03-13,105000,Active,Daniel Wilson
+041,Noah,Rodriguez,IT Manager,IT,Chicago,2014-10-10,95000,Active,Rachel Adams
+042,Jack,King,Data Engineer,IT,Los Angeles,2020-11-23,85000,Active,Robert Harris
+043,Chloe,Miller,Product Specialist,Operations,San Francisco,2019-12-01,60000,Active,Jack Lewis
+044,Mateo,Perez,Senior Developer,IT,Boston,2018-08-22,90000,Active,Rachel Adams
+045,Ava,Harris,Marketing Lead,Marketing,Denver,2017-05-17,95000,Active,Daniel Wilson
+046,Emma,Johnson,HR Specialist,HR,San Francisco,2016-11-03,60000,Active,Emily Taylor
+047,Elijah,Brown,Data Scientist,IT,Atlanta,2021-03-16,95000,Active,Rachel Adams
+048,Caroline,Lee,Sales Manager,Sales,Chicago,2014-05-09,98000,Active,Jane Smith
+049,Scarlett,Taylor,Project Specialist,Operations,Seattle,2020-02-14,65000,Active,Jack Lewis
+050,Noah,Green,Data Engineer,IT,Boston,2021-10-22,75000,Active,Robert Harris
